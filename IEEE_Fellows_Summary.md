@@ -35,7 +35,7 @@
 | 27 | Tao Jiang | Huazhong University of Science and Technology（华中科技大学） | 认知无线电、无线通信 |
 | 28 | Tao Xie | Peking University（北京大学） | 软件工程、软件测试 |
 | 29 | Tong Zhang | University of Illinois Urbana-Champaign（伊利诺伊大学厄巴纳-香槟分校） | 机器学习算法与理论 |
-| 30 | Tong Zhou | Georgia Institute of Technology（佐治亚理工学院）/ Tsinghua University（清华大学） | 信号处理 / 控制理论 |
+| 30 | Tong Zhou | Georgia Institute of Technology（佐治亚理工学院）或 Tsinghua University（清华大学）（注：有两位同名的 IEEE Fellow，分别在佐治亚理工和清华大学） | 信号处理 / 控制理论 |
 | 31 | Vito Pascazio | University of Naples "Parthenope", Italy（意大利那不勒斯帕特诺普大学） | SAR图像处理、微波成像 |
 | 32 | Wei Chen | Microsoft Research Asia（微软亚洲研究院） | 社交网络、在线学习、算法博弈论 |
 
@@ -86,7 +86,7 @@
 
 ## 总结
 
-在 `name.md` 的 38 位人员中，**32 位**被确认为 IEEE Fellow（Tong Zhou 可能对应两位不同的 IEEE Fellow），**6 位**未找到明确的 IEEE Fellow 记录。
+在 `name.md` 的 38 位人员中，**32 位**被确认为 IEEE Fellow（注：Tong Zhou 有两位同名的 IEEE Fellow，分别在佐治亚理工学院和清华大学，name.md 中的条目指代其中一位），**6 位**未找到明确的 IEEE Fellow 记录。
 
 这些 IEEE Fellow 分布在全球多个知名高校和研究机构，其中：
 - **中国大陆高校/机构**最多，包括：西安电子科技大学、武汉大学、中国科学院、东北大学、中国地质大学、华南理工大学、华中科技大学、北京大学、清华大学等
